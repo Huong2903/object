@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>falling0045.JPG</filename>
+	<path>C:\tensorflow\models\research\object_detection\images\train\falling0045.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>322</width>
+		<height>202</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>falling</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>71</xmin>
+			<ymin>32</ymin>
+			<xmax>248</xmax>
+			<ymax>189</ymax>
+		</bndbox>
+	</object>
+</annotation>
